@@ -307,7 +307,7 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ## 👤 Author
 
-Built by **`<your name>`** for the **MirAI School of Technology Capstone**
+Built by **`<Arjun Singh>`** for the **MirAI School of Technology Capstone**
 — Category B: EdTech & Campus Survival (`#8 Voice-Notes to Flashcards`,
 customized into **Exam Panic Mode** with photo and multi-file upload support).
 
